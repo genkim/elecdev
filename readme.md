@@ -1,4 +1,4 @@
-# electron開発用の環境を作る
+# electron開発用の環境を作ってみる
 
 ### Settings
 ```
