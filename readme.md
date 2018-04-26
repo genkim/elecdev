@@ -2,6 +2,6 @@
 
 ### Settings
 ```
-cd eletodo/dev
+cd elecdev/dev
 vagrant up
 ```
